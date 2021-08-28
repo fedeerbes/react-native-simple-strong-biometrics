@@ -13,9 +13,9 @@ npm install react-native-simple-strong-biometrics
 ```js
 import SimpleStrongBiometrics from "react-native-simple-strong-biometrics";
 
-// ...
+// ... TODO
 
-const result = await SimpleStrongBiometrics.multiply(3, 7);
+
 ```
 
 ## Contributing
